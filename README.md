@@ -1,48 +1,102 @@
-## Hi there 👋
+# Luis Gerardo 
 
-# ¡Hola! 👋 Soy Luis Gerardo Lucas Morales
+## AI Governance | Model Risk Management | Generative AI
 
-🚀 Especialista en Datos, Analítica e Inteligencia Artificial.
+Especialista en Inteligencia Artificial, Ciencia de Datos y Gestión de Riesgo de Modelos para entornos regulados.
 
-## 👨‍💻 Sobre mí
+### Áreas de trabajo
 
-- 🔭 Trabajando en proyectos de IA, Analítica Avanzada y Gobierno de Datos.
-- 🌱 Aprendiendo continuamente sobre LLMs, Azure AI y MLOps.
-- 🏦 Interesado en Riesgo de Modelos y cumplimiento regulatorio para entidades financieras.
-- 📊 Apasionado por Data Science, Machine Learning y Business Intelligence.
-- 🤖 Explorando agentes de IA, Copilot Studio y automatización empresarial.
-- ☁️ Experiencia en arquitecturas Cloud e híbridas para analítica y Big Data.
-
-## 🛠️ Tecnologías y Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,azure,docker,linux,git,github,vscode,fastapi,powershell&perline=9" />
-</p>
-
-## 📈 Estadísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glucasm&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glucasm&layout=compact&theme=tokyonight" />
-</p>
-
-## 🚀 Áreas de Interés
-
-- Inteligencia Artificial Generativa
-- Copilot Studio
-- Azure AI Services
-- Ciencia de Datos
-- MLOps
-- Gobierno de Datos
-- Big Data
-- Riesgo de Modelos
-- Power Platform
-- Automatización de Procesos
-
-## 📫 Contacto
-
-- GitHub: https://github.com/glucasm
+- AI Governance Frameworks
+- Model Risk Management (MRM)
+- Generative AI & LLM
+- Data Governance
+- Machine Learning
+- Explainable AI (XAI)
+- MLOps / LLMOps
+- AI Risk Assessment
+- Advanced Analytics
+- Financial Services
 
 ---
 
-⭐ Siempre abierto a colaborar en proyectos de innovación, datos e inteligencia artificial.
+### Intereses Técnicos
+
+#### AI Governance
+
+- Inventario y clasificación de sistemas de IA
+- Evaluación de riesgo de IA
+- Model Lifecycle Management
+- Controles y monitoreo de IA
+- Responsible AI
+- AI Compliance
+- Auditoría y trazabilidad de modelos
+
+#### Model Risk Management
+
+- Model Inventory
+- Model Validation
+- Performance Monitoring
+- Concept Drift Detection
+- Model Documentation
+- Challenger Models
+- Risk Tiering
+- Independent Review
+
+#### Generative AI
+
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- AI Agents
+- Prompt Engineering
+- Evaluation Frameworks
+- Guardrails
+- LLM Observability
+- Enterprise Copilots
+
+---
+
+### Frameworks y Estándares
+
+- NIST AI Risk Management Framework
+- ISO/IEC 42001
+- ISO 23894
+- SR 11-7 Model Risk Management
+- CRISP-DM
+- DAMA-DMBOK
+- Responsible AI Frameworks
+
+---
+
+### Tecnologías
+
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white 
+https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white 
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white 
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+
+---
+
+### Líneas de investigación
+
+- AI Governance Operating Models
+- AI Risk Quantification
+- Explainability en modelos de riesgo
+- LLM Governance
+- Model Monitoring Frameworks
+- Generative AI para servicios financieros
+- IA responsable en organizaciones reguladas
+
+---
+
+### Actualmente explorando
+
+- Agentic AI
+- Multi-Agent Systems
+- AI Control Frameworks
+- LLMOps
+- AI Security
+- AI Red Teaming
+
+---
+
+LinkedIn: www.linkedin.com/in/gerardo-lucas-08164164
