@@ -1,5 +1,7 @@
 # Luis Gerardo 
-AI Governance | Model Risk Management | Generative AI
+🏛️ AI Governance | ⚖️ Model Risk Management | 🧠 Generative AI
+
+Specializing in AI Governance, Responsible AI, Model Risk Management, Generative AI and Data Governance for Financial Services.
 
 - AI Governance & Responsible AI
 - Model Risk Management (MRM)
